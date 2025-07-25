@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08bea4d1ec2d5f4b8367461582edbd7, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  height: 20
+  width: 50
+  floorSectionLendthMin: 1
+  floorSectionLendthMax: 3
+  platformLendthMin: 1
+  platformLendthMax: 5
+  platformGapMin: 2
+  platformGapMax: 4
+  populations:
+  - {fileID: 11400000, guid: e74525275daccfd4e86c5e29003b0a42, type: 2}
+  - {fileID: 11400000, guid: 1d9323e38da7ace4386162a394420d49, type: 2}

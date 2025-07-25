@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee1d252ebe20964c91203a4eb13f20a, type: 3}
+  m_Name: Bug Lava
+  m_EditorClassIdentifier: 
+  pref: {fileID: 8368008518935463933, guid: dd26b283f8c31594c8e0bd82a1d27e40, type: 3}
+  speciesName: Bug Lava
+  height: 2
+  speed: 3
+  patrolRadius: 4
+  maxFollowDistance: 10
+  playerSeekRadius: 11
+  isAbleToLeaveSpawn: 0

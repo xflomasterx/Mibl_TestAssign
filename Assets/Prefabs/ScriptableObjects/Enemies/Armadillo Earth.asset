@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee1d252ebe20964c91203a4eb13f20a, type: 3}
+  m_Name: Armadillo Earth
+  m_EditorClassIdentifier: 
+  pref: {fileID: 5608410525780159708, guid: 43e4cc69b7bf9e4479ad07d87393eea2, type: 3}
+  speciesName: Armadillo Earth
+  height: 1.2
+  speed: 5.5
+  patrolRadius: 3
+  maxFollowDistance: 4
+  playerSeekRadius: 2
+  isAbleToLeaveSpawn: 0

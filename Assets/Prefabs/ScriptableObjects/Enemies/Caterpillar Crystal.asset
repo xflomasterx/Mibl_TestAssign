@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee1d252ebe20964c91203a4eb13f20a, type: 3}
+  m_Name: Caterpillar Crystal
+  m_EditorClassIdentifier: 
+  pref: {fileID: 521862304932488719, guid: c3f4d7eec8e0d2140af6ff06a4c962db, type: 3}
+  speciesName: Caterpillar Crystal
+  height: 1
+  speed: 2.4
+  patrolRadius: 7
+  maxFollowDistance: 8
+  playerSeekRadius: 2
+  isAbleToLeaveSpawn: 0

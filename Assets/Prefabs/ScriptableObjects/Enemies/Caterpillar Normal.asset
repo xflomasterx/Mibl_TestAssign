@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee1d252ebe20964c91203a4eb13f20a, type: 3}
+  m_Name: Caterpillar Normal
+  m_EditorClassIdentifier: 
+  pref: {fileID: 7788855680310853165, guid: f31eca87151b2d64c9df0588430da97c, type: 3}
+  speciesName: Caterpillar Normal
+  height: 1
+  speed: 2.7
+  patrolRadius: 6
+  maxFollowDistance: 7
+  playerSeekRadius: 2
+  isAbleToLeaveSpawn: 0
